@@ -13,7 +13,7 @@ Namespace CORP3.NET
         ' Methods
         Public Sub New()
             Me.mHasProviders = New Hashtable
-            Me.strValidadeCORP = "20/02/2199"
+            Me.strValidadeCORP = "28/11/2018"
             Me.disposedValue = False
             Me.mHasProviders = New Hashtable
             Dim mHasProviders As Hashtable = Me.mHasProviders
